@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "Ascii",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCountWithoutSpaces",
+            "request": "launch",
+            "mainClass": "CharacterCountWithoutSpaces",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "DigitToWord",
+            "request": "launch",
+            "mainClass": "DigitToWord",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "FloydsTriangle",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Fruits",
+            "request": "launch",
+            "mainClass": "Fruits",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "FtoC",
+            "request": "launch",
+            "mainClass": "FtoC",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "GradeSwitch",
+            "request": "launch",
+            "mainClass": "GradeSwitch",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Gradefc",
+            "request": "launch",
+            "mainClass": "Gradefc",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Id2",
+            "request": "launch",
+            "mainClass": "Id2",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "InputDigit",
+            "request": "launch",
+            "mainClass": "InputDigit",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Lab_2",
+            "request": "launch",
+            "mainClass": "Lab_2",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Leftshift",
+            "request": "launch",
+            "mainClass": "Leftshift",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "MAin",
+            "request": "launch",
+            "mainClass": "MAin",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Mpattern",
+            "request": "launch",
+            "mainClass": "Mpattern",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "NP2",
+            "request": "launch",
+            "mainClass": "NP2",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Npattern",
+            "request": "launch",
+            "mainClass": "Npattern",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "PredictGrade",
+            "request": "launch",
+            "mainClass": "PredictGrade",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberDetector",
+            "request": "launch",
+            "mainClass": "PrimeNumberDetector",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "QuotientRemainder",
+            "request": "launch",
+            "mainClass": "QuotientRemainder",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Radius",
+            "request": "launch",
+            "mainClass": "Radius",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "StudentAge",
+            "request": "launch",
+            "mainClass": "StudentAge",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Trail",
+            "request": "launch",
+            "mainClass": "Trail",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Traingle",
+            "request": "launch",
+            "mainClass": "Traingle",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        },
+        {
+            "type": "java",
+            "name": "VC",
+            "request": "launch",
+            "mainClass": "VC",
+            "projectName": "Java-Programming-Noman_a7e3e456"
+        }
+    ]
+}
